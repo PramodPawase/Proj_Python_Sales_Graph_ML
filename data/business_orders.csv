@@ -1,0 +1,133 @@
+order_id,order_date,supplier_name,product_name,category,unit_cost,unit_selling_price,quantity,order_count,purchase_cost,sales_revenue,shipping_cost,operating_cost,payment_mode,pending_amount,delivery_days,supplier_reliability
+ORD-1001,2025-01-09,Apex Electronics,Smart Watch,Electronics,1768.81,2500.33,121,20,214026.01,302539.93,7872.44,13423.45,Credit,129761.03,6,0.88
+ORD-1002,2025-01-21,BrightHome Supply,Storage Container Set,Home & Kitchen,375.08,619.4,96,16,36007.68,59462.4,2251.86,5104.83,Bank Transfer,706.36,7,0.78
+ORD-1003,2025-01-06,Cedar Office Works,Printer Paper Box,Office,333.6,529.67,77,13,25687.2,40784.59,1646.38,2462.17,Cash,103.29,6,0.72
+ORD-1004,2025-01-19,Delta Retail Partners,Hair Dryer,Personal Care,767.84,1360.92,41,13,31481.44,55797.72,1941.1,3389.44,UPI,457.4,6,0.83
+ORD-1005,2025-01-05,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,243.3,406.26,61,18,14841.3,24781.86,489.79,1558.41,Credit,8878.53,5,0.68
+ORD-1006,2025-01-15,Fusion Tech Traders,Wireless Earbuds,Electronics,805.23,1290.38,50,11,40261.5,64519.0,1527.9,3343.04,Bank Transfer,166.82,6,0.91
+ORD-1007,2025-02-18,Apex Electronics,Smart Watch,Electronics,1592.45,2343.12,111,19,176761.95,260086.32,5620.81,11949.04,Bank Transfer,9715.79,5,0.88
+ORD-1008,2025-02-23,BrightHome Supply,Storage Container Set,Home & Kitchen,361.81,679.47,88,15,31839.28,59793.36,1244.79,2294.81,Credit,26293.42,6,0.78
+ORD-1009,2025-02-14,Cedar Office Works,Notebook Pack,Office,125.91,220.36,62,14,7806.42,13662.32,370.54,1063.2,Cash,273.36,6,0.72
+ORD-1010,2025-02-23,Delta Retail Partners,Hair Dryer,Personal Care,851.84,1339.22,61,14,51962.24,81692.42,1608.91,4398.75,UPI,4745.29,1,0.83
+ORD-1011,2025-02-19,Evergreen Wholesale,Tea Collection,Food & Beverage,264.18,511.24,88,19,23247.84,44989.12,1616.45,2831.29,Credit,19435.73,6,0.68
+ORD-1012,2025-02-10,Fusion Tech Traders,Wireless Earbuds,Electronics,827.44,1333.33,66,13,54611.04,87999.78,2222.92,4082.97,UPI,4209.36,4,0.91
+ORD-1013,2025-03-07,Apex Electronics,USB-C Charger,Electronics,302.24,521.42,121,21,36571.04,63091.82,1307.09,2252.72,Credit,18597.23,7,0.88
+ORD-1014,2025-03-08,BrightHome Supply,Electric Kettle,Home & Kitchen,659.11,1023.03,72,19,47455.92,73658.16,1700.77,4627.9,UPI,723.55,9,0.78
+ORD-1015,2025-03-09,Cedar Office Works,Ergonomic Mouse,Office,458.81,846.32,67,20,30740.27,56703.44,1338.39,2309.66,Bank Transfer,257.46,7,0.72
+ORD-1016,2025-03-18,Delta Retail Partners,Electric Trimmer,Personal Care,723.26,1106.63,85,14,61477.1,94063.55,2184.95,4862.14,Cash,1642.93,6,0.83
+ORD-1017,2025-03-09,Evergreen Wholesale,Tea Collection,Food & Beverage,292.07,507.89,105,20,30667.35,53328.45,1040.19,2563.03,Cash,207.69,8,0.68
+ORD-1018,2025-03-14,Fusion Tech Traders,Wireless Earbuds,Electronics,807.18,1370.4,52,12,41973.36,71260.8,2125.66,2924.15,Cash,3872.55,3,0.91
+ORD-1019,2025-04-22,Apex Electronics,Wireless Earbuds,Electronics,832.98,1345.2,86,24,71636.28,115687.2,3701.36,5627.32,Bank Transfer,1594.39,4,0.88
+ORD-1020,2025-04-02,BrightHome Supply,Storage Container Set,Home & Kitchen,380.62,621.05,83,22,31591.46,51547.15,841.54,4222.49,UPI,2222.24,9,0.78
+ORD-1021,2025-04-24,Cedar Office Works,Notebook Pack,Office,134.21,231.7,70,17,9394.7,16219.0,502.93,1205.37,UPI,91.52,6,0.72
+ORD-1022,2025-04-09,Delta Retail Partners,Hair Dryer,Personal Care,847.96,1284.58,60,14,50877.6,77074.8,2110.24,6440.2,Credit,34308.49,6,0.83
+ORD-1023,2025-04-13,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,241.37,447.64,91,22,21964.67,40735.24,1188.68,2115.72,Credit,5896.19,5,0.68
+ORD-1024,2025-04-13,Fusion Tech Traders,Wireless Earbuds,Electronics,837.81,1266.55,73,15,61160.13,92458.15,1844.73,4135.61,UPI,2404.29,4,0.91
+ORD-1025,2025-05-21,Apex Electronics,Smart Watch,Electronics,1588.84,2486.67,119,21,189071.96,295913.73,10358.33,12512.59,Credit,118715.29,6,0.88
+ORD-1026,2025-05-03,BrightHome Supply,LED Desk Lamp,Home & Kitchen,548.71,925.32,81,19,44445.51,74950.92,1517.04,5907.48,Cash,712.14,9,0.78
+ORD-1027,2025-05-26,Cedar Office Works,Notebook Pack,Office,121.79,229.2,92,16,11204.68,21086.4,402.69,819.34,Credit,8978.7,7,0.72
+ORD-1028,2025-05-25,Delta Retail Partners,Electric Trimmer,Personal Care,670.24,1073.66,95,16,63672.8,101997.7,2095.41,9061.38,Bank Transfer,3798.87,5,0.83
+ORD-1029,2025-05-18,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,242.15,424.46,80,19,19372.0,33956.8,493.32,1763.57,Credit,11405.48,9,0.68
+ORD-1030,2025-05-13,Fusion Tech Traders,Wireless Earbuds,Electronics,891.83,1246.81,49,11,43699.67,61093.69,1717.92,4950.73,Credit,22180.81,5,0.91
+ORD-1031,2025-06-18,Apex Electronics,Wireless Earbuds,Electronics,856.17,1278.53,116,19,99315.72,148309.48,3337.34,9032.27,UPI,3872.62,5,0.88
+ORD-1032,2025-06-16,BrightHome Supply,Electric Kettle,Home & Kitchen,676.96,979.03,85,15,57541.6,83217.55,2996.67,7047.04,Credit,18632.61,4,0.78
+ORD-1033,2025-06-25,Cedar Office Works,Printer Paper Box,Office,295.52,540.35,63,14,18617.76,34042.05,736.57,2147.64,Bank Transfer,662.86,6,0.72
+ORD-1034,2025-06-27,Delta Retail Partners,Hair Dryer,Personal Care,808.32,1309.64,58,14,46882.56,75959.12,1304.19,4560.36,Credit,32089.67,6,0.83
+ORD-1035,2025-06-24,Evergreen Wholesale,Premium Coffee Pack,Food & Beverage,309.85,509.5,70,20,21689.5,35665.0,1369.95,2776.27,Cash,567.03,8,0.68
+ORD-1036,2025-06-25,Fusion Tech Traders,Wireless Earbuds,Electronics,817.12,1288.93,42,11,34319.04,54135.06,1108.8,2422.42,Bank Transfer,1792.77,6,0.91
+ORD-1037,2025-07-12,Apex Electronics,Smart Watch,Electronics,1735.45,2567.39,111,18,192634.95,284980.29,12359.43,22401.73,Credit,68838.79,7,0.88
+ORD-1038,2025-07-20,BrightHome Supply,LED Desk Lamp,Home & Kitchen,525.96,893.19,75,18,39447.0,66989.25,1464.36,4760.3,Bank Transfer,3367.58,6,0.78
+ORD-1039,2025-07-24,Cedar Office Works,Notebook Pack,Office,120.3,246.99,78,16,9383.4,19265.22,384.97,1415.23,UPI,650.23,6,0.72
+ORD-1040,2025-07-03,Delta Retail Partners,Skin Care Kit,Personal Care,599.55,1098.87,60,14,35973.0,65932.2,2481.16,4237.17,UPI,645.99,6,0.83
+ORD-1041,2025-07-17,Evergreen Wholesale,Premium Coffee Pack,Food & Beverage,321.66,528.86,62,20,19942.92,32789.32,1142.09,2618.87,UPI,947.73,8,0.68
+ORD-1042,2025-07-05,Fusion Tech Traders,Smart Watch,Electronics,1602.15,2344.56,61,14,97731.15,143018.16,2558.06,12181.81,Bank Transfer,3782.52,4,0.91
+ORD-1043,2025-08-15,Apex Electronics,Wireless Earbuds,Electronics,821.0,1366.42,128,21,105088.0,174901.76,7058.41,8446.62,Bank Transfer,5571.92,8,0.88
+ORD-1044,2025-08-21,BrightHome Supply,LED Desk Lamp,Home & Kitchen,489.4,862.6,90,20,44046.0,77634.0,2374.91,6376.5,Credit,32266.75,5,0.78
+ORD-1045,2025-08-03,Cedar Office Works,Notebook Pack,Office,129.97,240.09,97,17,12607.09,23288.73,828.37,1031.56,Cash,117.04,7,0.72
+ORD-1046,2025-08-27,Delta Retail Partners,Electric Trimmer,Personal Care,694.84,1130.36,61,14,42385.24,68951.96,2230.4,3468.19,Credit,7978.22,6,0.83
+ORD-1047,2025-08-25,Evergreen Wholesale,Premium Coffee Pack,Food & Beverage,325.65,568.79,76,19,24749.4,43228.04,920.18,3757.45,Cash,2188.9,5,0.68
+ORD-1048,2025-08-22,Fusion Tech Traders,USB-C Charger,Electronics,312.26,512.41,49,13,15300.74,25108.09,957.16,2181.08,Bank Transfer,217.88,6,0.91
+ORD-1049,2025-09-20,Apex Electronics,USB-C Charger,Electronics,307.41,501.28,101,24,31048.41,50629.28,1667.64,1777.27,Credit,5784.89,6,0.88
+ORD-1050,2025-09-26,BrightHome Supply,Electric Kettle,Home & Kitchen,610.47,1030.77,91,20,55552.77,93800.07,3019.77,4581.89,Bank Transfer,3233.37,5,0.78
+ORD-1051,2025-09-11,Cedar Office Works,Printer Paper Box,Office,333.57,522.69,73,19,24350.61,38156.37,1616.95,1867.31,UPI,822.8,9,0.72
+ORD-1052,2025-09-25,Delta Retail Partners,Electric Trimmer,Personal Care,668.45,1083.11,87,17,58155.15,94230.57,3488.32,5069.58,UPI,2405.44,5,0.83
+ORD-1053,2025-09-02,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,252.44,411.74,113,24,28525.72,46526.62,1453.69,3533.9,Bank Transfer,578.21,6,0.68
+ORD-1054,2025-09-19,Fusion Tech Traders,Wireless Earbuds,Electronics,850.16,1381.31,62,13,52709.92,85641.22,3350.4,7425.67,UPI,347.96,5,0.91
+ORD-1055,2025-10-25,Apex Electronics,Smart Watch,Electronics,1719.05,2361.73,98,28,168466.9,231449.54,4592.29,17456.31,Credit,25783.15,4,0.88
+ORD-1056,2025-10-02,BrightHome Supply,Electric Kettle,Home & Kitchen,630.82,1090.88,167,27,105346.94,182176.96,4850.68,13233.79,Bank Transfer,9524.43,4,0.78
+ORD-1057,2025-10-14,Cedar Office Works,Notebook Pack,Office,118.32,239.04,106,20,12541.92,25338.24,352.92,2042.36,Cash,939.15,5,0.72
+ORD-1058,2025-10-14,Delta Retail Partners,Skin Care Kit,Personal Care,593.65,1020.68,114,20,67676.1,116357.52,4736.28,5984.01,Credit,23166.33,4,0.83
+ORD-1059,2025-10-04,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,238.24,397.15,166,34,39547.84,65926.9,1536.24,2524.8,Bank Transfer,708.07,7,0.68
+ORD-1060,2025-10-23,Fusion Tech Traders,USB-C Charger,Electronics,308.2,497.78,65,15,20033.0,32355.7,977.45,2798.94,Cash,1759.0,7,0.91
+ORD-1061,2025-11-22,Apex Electronics,USB-C Charger,Electronics,272.83,514.26,152,36,41470.16,78167.52,2529.4,6648.18,UPI,445.11,6,0.88
+ORD-1062,2025-11-24,BrightHome Supply,Storage Container Set,Home & Kitchen,370.99,696.78,180,29,66778.2,125420.4,2617.19,4391.96,Bank Transfer,812.23,8,0.78
+ORD-1063,2025-11-12,Cedar Office Works,Ergonomic Mouse,Office,489.34,810.44,121,26,59210.14,98063.24,4086.36,6609.62,Credit,28994.8,9,0.72
+ORD-1064,2025-11-17,Delta Retail Partners,Hair Dryer,Personal Care,843.32,1393.73,92,25,77585.44,128223.16,3897.37,6840.17,Bank Transfer,4795.36,5,0.83
+ORD-1065,2025-11-27,Evergreen Wholesale,Premium Coffee Pack,Food & Beverage,294.42,559.68,183,40,53878.86,102421.44,3550.64,5074.73,Bank Transfer,1162.18,6,0.68
+ORD-1066,2025-11-05,Fusion Tech Traders,Smart Watch,Electronics,1757.44,2331.5,82,26,144110.08,191183.0,7829.17,12719.35,UPI,3525.91,8,0.91
+ORD-1067,2025-12-25,Apex Electronics,USB-C Charger,Electronics,309.27,536.46,112,36,34638.24,60083.52,1535.2,2493.18,UPI,2860.14,3,0.88
+ORD-1068,2025-12-21,BrightHome Supply,LED Desk Lamp,Home & Kitchen,552.87,858.19,141,32,77954.67,121004.79,4892.71,10859.85,Bank Transfer,4277.22,5,0.78
+ORD-1069,2025-12-09,Cedar Office Works,Notebook Pack,Office,118.21,222.64,85,27,10047.85,18924.4,426.68,971.62,Bank Transfer,177.63,4,0.72
+ORD-1070,2025-12-01,Delta Retail Partners,Skin Care Kit,Personal Care,638.48,985.34,81,26,51716.88,79812.54,2059.61,4367.41,UPI,429.76,9,0.83
+ORD-1071,2025-12-14,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,262.27,438.6,199,43,52191.73,87281.4,2461.49,3505.68,Bank Transfer,3940.59,6,0.68
+ORD-1072,2025-12-18,Fusion Tech Traders,USB-C Charger,Electronics,278.44,546.93,95,24,26451.8,51958.35,1160.11,3400.23,Bank Transfer,2305.86,6,0.91
+ORD-1073,2026-01-13,Apex Electronics,Smart Watch,Electronics,1605.73,2424.5,55,17,88315.15,133347.5,5837.95,10431.72,UPI,7571.5,3,0.88
+ORD-1074,2026-01-10,BrightHome Supply,Storage Container Set,Home & Kitchen,354.65,651.52,68,15,24116.2,44303.36,1299.09,2965.61,Credit,8453.53,6,0.78
+ORD-1075,2026-01-19,Cedar Office Works,Printer Paper Box,Office,328.88,522.47,47,15,15457.36,24556.09,913.98,873.68,Credit,3246.26,5,0.72
+ORD-1076,2026-01-24,Delta Retail Partners,Hair Dryer,Personal Care,753.22,1287.85,45,12,33894.9,57953.25,2359.61,4131.82,Bank Transfer,2709.66,7,0.83
+ORD-1077,2026-01-15,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,239.66,432.95,90,16,21569.4,38965.5,873.89,1548.25,Bank Transfer,901.21,6,0.68
+ORD-1078,2026-01-20,Fusion Tech Traders,Wireless Earbuds,Electronics,831.7,1355.31,40,10,33268.0,54212.4,2065.92,3037.04,Credit,9030.76,6,0.91
+ORD-1079,2026-02-07,Apex Electronics,Smart Watch,Electronics,1646.7,2313.34,63,20,103742.1,145740.42,2950.27,12929.98,UPI,96.35,3,0.88
+ORD-1080,2026-02-02,BrightHome Supply,LED Desk Lamp,Home & Kitchen,559.65,891.01,52,16,29101.8,46332.52,1598.34,2141.43,Bank Transfer,1700.0,5,0.78
+ORD-1081,2026-02-20,Cedar Office Works,Ergonomic Mouse,Office,482.53,845.84,72,15,34742.16,60900.48,1739.59,3539.57,UPI,2656.86,6,0.72
+ORD-1082,2026-02-27,Delta Retail Partners,Electric Trimmer,Personal Care,738.21,1078.04,70,12,51674.7,75462.8,2809.56,6755.0,UPI,4245.62,4,0.83
+ORD-1083,2026-02-27,Evergreen Wholesale,Premium Coffee Pack,Food & Beverage,324.9,554.11,87,16,28266.3,48207.57,1189.1,3396.23,UPI,123.01,8,0.68
+ORD-1084,2026-02-17,Fusion Tech Traders,Wireless Earbuds,Electronics,914.95,1245.29,43,13,39342.85,53547.47,1234.51,3749.01,UPI,668.73,3,0.91
+ORD-1085,2026-03-02,Apex Electronics,USB-C Charger,Electronics,288.19,515.79,85,21,24496.15,43842.15,677.63,2860.28,Cash,981.04,6,0.88
+ORD-1086,2026-03-23,BrightHome Supply,Storage Container Set,Home & Kitchen,364.52,645.31,88,20,32077.76,56787.28,2217.65,2320.41,Cash,2783.76,9,0.78
+ORD-1087,2026-03-12,Cedar Office Works,Notebook Pack,Office,128.77,234.01,74,17,9528.98,17316.74,255.77,626.5,UPI,800.59,3,0.72
+ORD-1088,2026-03-22,Delta Retail Partners,Electric Trimmer,Personal Care,692.68,1160.44,97,17,67189.96,112562.68,2676.43,6186.53,UPI,6606.66,4,0.83
+ORD-1089,2026-03-20,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,259.11,402.81,97,20,25133.67,39072.57,806.83,2222.48,UPI,318.5,8,0.68
+ORD-1090,2026-03-22,Fusion Tech Traders,Smart Watch,Electronics,1771.05,2304.04,66,14,116889.3,152066.64,6124.32,9772.93,Cash,1969.26,6,0.91
+ORD-1091,2026-04-21,Apex Electronics,USB-C Charger,Electronics,312.57,495.47,99,22,30944.43,49051.53,1846.81,2092.43,Credit,15289.72,6,0.88
+ORD-1092,2026-04-17,BrightHome Supply,Electric Kettle,Home & Kitchen,636.46,1064.57,128,21,81466.88,136264.96,5694.71,5838.33,Bank Transfer,7282.33,6,0.78
+ORD-1093,2026-04-17,Cedar Office Works,Printer Paper Box,Office,324.35,517.46,73,18,23677.55,37774.58,927.25,3210.29,Bank Transfer,860.41,9,0.72
+ORD-1094,2026-04-04,Delta Retail Partners,Electric Trimmer,Personal Care,743.6,1083.56,50,15,37180.0,54178.0,2487.44,2710.07,UPI,2211.11,4,0.83
+ORD-1095,2026-04-14,Evergreen Wholesale,Tea Collection,Food & Beverage,270.74,504.52,119,21,32218.06,60037.88,851.6,4316.49,Bank Transfer,1465.43,9,0.68
+ORD-1096,2026-04-01,Fusion Tech Traders,Wireless Earbuds,Electronics,866.18,1359.25,50,16,43309.0,67962.5,2996.25,3331.21,Bank Transfer,842.83,7,0.91
+ORD-1097,2026-05-01,Apex Electronics,Wireless Earbuds,Electronics,889.72,1381.78,108,20,96089.76,149232.24,2684.28,5356.86,Bank Transfer,4520.0,5,0.88
+ORD-1098,2026-05-25,BrightHome Supply,Storage Container Set,Home & Kitchen,361.35,693.21,76,16,27462.6,52683.96,1007.11,3381.01,Bank Transfer,1851.95,6,0.78
+ORD-1099,2026-05-27,Cedar Office Works,Ergonomic Mouse,Office,486.8,865.73,79,15,38457.2,68392.67,993.14,2611.79,Credit,17604.34,6,0.72
+ORD-1100,2026-05-16,Delta Retail Partners,Hair Dryer,Personal Care,796.46,1278.13,57,16,45398.22,72853.41,2784.78,4634.72,Bank Transfer,3852.09,8,0.83
+ORD-1101,2026-05-16,Evergreen Wholesale,Tea Collection,Food & Beverage,272.47,461.71,113,22,30789.11,52173.23,1006.45,2818.85,Bank Transfer,156.16,7,0.68
+ORD-1102,2026-05-09,Fusion Tech Traders,USB-C Charger,Electronics,302.09,486.77,66,13,19937.94,32126.82,1351.75,2634.03,Credit,6533.27,5,0.91
+ORD-1103,2026-06-16,Apex Electronics,USB-C Charger,Electronics,288.26,528.55,89,18,25655.14,47040.95,1460.77,2875.24,Credit,10976.21,5,0.88
+ORD-1104,2026-06-03,BrightHome Supply,LED Desk Lamp,Home & Kitchen,505.64,892.69,67,17,33877.88,59810.23,973.05,2287.99,Bank Transfer,1525.87,7,0.78
+ORD-1105,2026-06-02,Cedar Office Works,Printer Paper Box,Office,291.98,514.06,41,13,11971.18,21076.46,489.26,1632.61,Bank Transfer,467.32,8,0.72
+ORD-1106,2026-06-12,Delta Retail Partners,Electric Trimmer,Personal Care,737.44,1060.12,80,14,58995.2,84809.6,2257.39,4795.89,Bank Transfer,2207.73,4,0.83
+ORD-1107,2026-06-04,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,251.71,427.06,57,17,14347.47,24342.42,986.75,1734.52,UPI,835.66,9,0.68
+ORD-1108,2026-06-03,Fusion Tech Traders,Smart Watch,Electronics,1701.51,2401.74,57,11,96986.07,136899.18,6781.6,6342.87,Credit,23462.32,5,0.91
+ORD-1109,2026-07-14,Apex Electronics,USB-C Charger,Electronics,280.92,494.8,111,21,31182.12,54922.8,1341.99,2818.85,Bank Transfer,2048.02,5,0.88
+ORD-1110,2026-07-08,BrightHome Supply,Electric Kettle,Home & Kitchen,660.07,1055.85,91,16,60066.37,96082.35,3729.59,5952.25,UPI,1018.35,6,0.78
+ORD-1111,2026-07-08,Cedar Office Works,Notebook Pack,Office,122.49,224.37,58,14,7104.42,13013.46,273.88,716.62,Credit,1593.96,7,0.72
+ORD-1112,2026-07-18,Delta Retail Partners,Skin Care Kit,Personal Care,609.99,978.34,41,12,25009.59,40111.94,1334.93,3572.26,Bank Transfer,1067.6,6,0.83
+ORD-1113,2026-07-05,Evergreen Wholesale,Tea Collection,Food & Beverage,301.04,489.43,86,20,25889.44,42090.98,1110.83,2018.03,UPI,243.54,7,0.68
+ORD-1114,2026-07-01,Fusion Tech Traders,Smart Watch,Electronics,1614.04,2418.52,43,11,69403.72,103996.36,3668.96,4315.34,UPI,4320.98,6,0.91
+ORD-1115,2026-08-02,Apex Electronics,Wireless Earbuds,Electronics,902.94,1291.37,96,21,86682.24,123971.52,3083.56,4848.65,Bank Transfer,7415.69,8,0.88
+ORD-1116,2026-08-03,BrightHome Supply,LED Desk Lamp,Home & Kitchen,523.85,940.44,82,20,42955.7,77116.08,2963.65,4274.09,Bank Transfer,1639.37,6,0.78
+ORD-1117,2026-08-13,Cedar Office Works,Ergonomic Mouse,Office,512.19,843.57,49,16,25097.31,41334.93,1674.28,1510.41,UPI,2272.86,9,0.72
+ORD-1118,2026-08-12,Delta Retail Partners,Hair Dryer,Personal Care,820.14,1380.32,61,16,50028.54,84199.52,1310.22,5971.67,Bank Transfer,1473.98,4,0.83
+ORD-1119,2026-08-16,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,248.64,402.92,80,21,19891.2,32233.6,1125.49,2136.74,Bank Transfer,319.5,6,0.68
+ORD-1120,2026-08-17,Fusion Tech Traders,Wireless Earbuds,Electronics,908.91,1296.68,58,13,52716.78,75207.44,3181.42,5025.99,Bank Transfer,294.79,3,0.91
+ORD-1121,2026-09-27,Apex Electronics,Wireless Earbuds,Electronics,896.7,1329.89,127,24,113880.9,168896.03,3787.31,10662.92,Bank Transfer,4966.81,7,0.88
+ORD-1122,2026-09-24,BrightHome Supply,Electric Kettle,Home & Kitchen,681.65,1033.65,74,20,50442.1,76490.1,1566.41,3620.21,UPI,341.66,9,0.78
+ORD-1123,2026-09-04,Cedar Office Works,Notebook Pack,Office,118.91,247.94,77,21,9156.07,19091.38,319.6,1413.78,Credit,7619.66,4,0.72
+ORD-1124,2026-09-14,Delta Retail Partners,Skin Care Kit,Personal Care,643.8,1085.42,47,15,30258.6,51014.74,886.82,3910.36,UPI,176.91,8,0.83
+ORD-1125,2026-09-12,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,258.81,447.91,105,22,27175.05,47030.55,1843.13,3025.59,Bank Transfer,0.83,7,0.68
+ORD-1126,2026-09-10,Fusion Tech Traders,Smart Watch,Electronics,1596.82,2526.22,91,16,145310.62,229886.02,5298.56,10339.34,Credit,96160.39,7,0.91
+ORD-1127,2026-10-26,Apex Electronics,Wireless Earbuds,Electronics,894.39,1326.5,121,27,108221.19,160506.5,3339.41,10289.18,Cash,2090.59,6,0.88
+ORD-1128,2026-10-15,BrightHome Supply,Electric Kettle,Home & Kitchen,641.37,1038.17,119,25,76323.03,123542.23,2906.14,9401.74,UPI,3226.1,5,0.78
+ORD-1129,2026-10-12,Cedar Office Works,Notebook Pack,Office,129.44,229.0,78,25,10096.32,17862.0,617.56,928.58,Bank Transfer,15.56,6,0.72
+ORD-1130,2026-10-19,Delta Retail Partners,Skin Care Kit,Personal Care,656.08,1063.52,91,22,59703.28,96780.32,2702.95,5246.2,Credit,18150.49,5,0.83
+ORD-1131,2026-10-08,Evergreen Wholesale,Healthy Snack Box,Food & Beverage,253.21,403.45,123,35,31144.83,49624.35,1293.28,2993.46,Credit,19830.95,5,0.68
+ORD-1132,2026-10-20,Fusion Tech Traders,Wireless Earbuds,Electronics,897.02,1274.66,52,15,46645.04,66282.32,1926.47,4092.41,Bank Transfer,876.59,4,0.91
