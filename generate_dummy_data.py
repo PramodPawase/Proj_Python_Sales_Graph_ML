@@ -55,6 +55,8 @@ def build_dataset() -> pd.DataFrame:
             credit_ratio = rng.uniform(0.10, 0.45) if payment_mode == "Credit" else rng.uniform(0, 0.06)
             pending_amount = round(revenue * credit_ratio, 2)
             delivery_days = max(1, int(round(10 - reliability * 5 + rng.normal(0, 1.5))))
+            current_stock = int(round(quantity * rng.uniform(0.55, 1.35)))
+            reorder_point = int(round(quantity * 0.75))
             rows.append({
                 "order_id": f"ORD-{order_number}",
                 "order_date": date.date().isoformat(),
@@ -73,6 +75,8 @@ def build_dataset() -> pd.DataFrame:
                 "pending_amount": pending_amount,
                 "delivery_days": delivery_days,
                 "supplier_reliability": reliability,
+                "current_stock": current_stock,
+                "reorder_point": reorder_point,
             })
             order_number += 1
     return pd.DataFrame(rows)
