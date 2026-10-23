@@ -1,11 +1,11 @@
 """Create a reproducible dummy business-orders dataset for the dashboard."""
 
-from __future__ import annotations
+#from __future__ import annotations
 
-from pathlib import Path
+#from pathlib import Path
 
-import numpy as np
-import pandas as pd
+#import numpy as np
+#import pandas as pd
 
 
 OUTPUT_PATH = Path(__file__).parent / "data" / "business_orders.csv"
