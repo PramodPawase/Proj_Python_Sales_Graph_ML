@@ -1,16 +1,16 @@
 """Business supplier intelligence dashboard with profit/loss and demand forecasting."""
 
-from __future__ import annotations
+#from __future__ import annotations
 
-from pathlib import Path
+#from pathlib import Path
 
-import altair as alt
-import numpy as np
-import pandas as pd
-import streamlit as st
-from sklearn.ensemble import RandomForestRegressor
+#import altair as alt
+#import numpy as np
+#import pandas as pd
+#import streamlit as st
+#from sklearn.ensemble import RandomForestRegressor
 
-from generate_dummy_data import build_dataset
+#from generate_dummy_data import build_dataset
 
 
 st.set_page_config(page_title="SupplyLens | Business intelligence", page_icon=":material/query_stats:", layout="wide")
